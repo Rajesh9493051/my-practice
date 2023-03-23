@@ -1,0 +1,39 @@
+.mytable_one_class {
+    border: 2px solid green;
+}
+    
+.myTableTwo{
+border: 1px solid  #c7c7c7;
+}
+.myTableTwo th,
+.myTableTwo td{
+border: 1px solid #d46c6c;
+}
+.myTableTwo th:hover{
+    background-color: #ffff;
+    color: #000;
+}
+
+.myTableTwo tr:hover{
+    background-color: green;
+    color: #000;
+}
+td:hover{
+    background-color: orange;
+}
+.sno:hover{
+    background-color: red;
+}
+.myTableTwo th{
+background-color: #222222;
+color: #fff;
+font-style: italic;
+font-size : 32px ;
+}
+#red {
+    background-color: red;
+}
+
+#red:active{
+    background-color: yellow;
+}
